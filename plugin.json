@@ -1,0 +1,26 @@
+{
+  "slug": "Multipole",
+  "name": "Multipole",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "4ms",
+  "author": "Ross Fish",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Multipole",
+      "name": "Multipole",
+      "description": "Multiband comb and notch designer",
+      "tags": [
+        "Filter",
+        "effect"
+      ]
+    }
+  ]
+}
